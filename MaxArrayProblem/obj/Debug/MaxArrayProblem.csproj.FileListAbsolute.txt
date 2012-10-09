@@ -1,0 +1,8 @@
+c:\users\rob\documents\visual studio 2012\Projects\MaxArrayProblem\MaxArrayProblem\bin\Debug\MaxArrayProblem.exe.config
+c:\users\rob\documents\visual studio 2012\Projects\MaxArrayProblem\MaxArrayProblem\bin\Debug\MaxArrayProblem.exe
+c:\users\rob\documents\visual studio 2012\Projects\MaxArrayProblem\MaxArrayProblem\bin\Debug\MaxArrayProblem.pdb
+c:\users\rob\documents\visual studio 2012\Projects\MaxArrayProblem\MaxArrayProblem\obj\Debug\MaxArrayProblem.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2012\Projects\MaxArrayProblem\MaxArrayProblem\obj\Debug\MaxArrayProblem.Properties.Resources.resources
+c:\users\rob\documents\visual studio 2012\Projects\MaxArrayProblem\MaxArrayProblem\obj\Debug\MaxArrayProblem.csproj.GenerateResource.Cache
+c:\users\rob\documents\visual studio 2012\Projects\MaxArrayProblem\MaxArrayProblem\obj\Debug\MaxArrayProblem.exe
+c:\users\rob\documents\visual studio 2012\Projects\MaxArrayProblem\MaxArrayProblem\obj\Debug\MaxArrayProblem.pdb
